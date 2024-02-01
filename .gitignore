@@ -1,0 +1,6 @@
+#IDE
+.idea/
+.trunk/
+
+#PPROF RESULTS
+*.prof
